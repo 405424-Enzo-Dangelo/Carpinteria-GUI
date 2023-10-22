@@ -1,0 +1,150 @@
+C:\Users\alumno\Desktop\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.exe.config
+C:\Users\alumno\Desktop\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.exe
+C:\Users\alumno\Desktop\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.pdb
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Properties.Resources.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.exe
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.pdb
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FormPrincipal.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.FormPresupuesto.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmConsultarPresupuestos.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmDetallePresupuesto.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.exe.config
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.exe
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.pdb
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\EnvDTE.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.AssemblyReference.cache
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.FormPresupuesto.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FormPrincipal.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmConsultarPresupuestos.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmDetallePresupuesto.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Properties.Resources.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.GenerateResource.cache
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.CoreCompileInputs.cache
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.CopyComplete
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.exe
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.pdb
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmListadoProductos.resources
+D:\Archivos\UTN\2° Cuatrimestre - 2023\Programacion 2\Programas\Carpinteria Bazan(3)\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmReporteProductosPresupuestados.resources
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.exe.config
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.exe
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Carpinteria Bazan.pdb
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\EnvDTE.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\stdole.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.AssemblyReference.cache
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmConsultarPresupuestos.resources
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmDetallePresupuesto.resources
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmListadoProductos.resources
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmReporteProductosPresupuestados.resources
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Properties.Resources.resources
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.GenerateResource.cache
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.CoreCompileInputs.cache
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.csproj.CopyComplete
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.exe
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria Bazan.pdb
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.FrmPresupuesto.resources
+C:\Users\enzo_\OneDrive\Desktop\Carpinteria Bazan\obj\Debug\Carpinteria_Bazan.Presentacion.FrmPrincipal.resources
